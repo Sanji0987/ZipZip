@@ -1,4 +1,4 @@
-# Zipper
+# ZipZip
 
 File compression tool in C. Reads a file, builds a frequency table of 16-bit values using a hash table (Knuth's multiplicative hash), and will eventually use that to compress the data.
 
